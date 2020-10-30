@@ -1,0 +1,171 @@
+.bg {
+    height: 100%; 
+	margin: 0;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg .btn1 {
+  position: absolute;
+  top: 60%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: white;
+  font-size: 70px;
+  padding: 20px 30px;
+  border: 2px solid white;
+  cursor: pointer;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.bg .btn1:hover {
+  background-color: Transparent;
+}
+
+.bg .btn2 {
+  position: absolute;
+  top: 60%;
+  left: 26%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: Transparent;
+  color: white;
+  font-size: 70px;
+  padding: 20px 30px;
+  border: 2px solid white;
+  cursor: pointer;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.bg .btn2:hover {
+  background-color: Transparent;
+}
+
+.bg .btn3 {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: Transparent;
+  color: White;
+  font-size: 70px;
+  padding: 20px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.bg .btn3:hover {
+  background-color: Transperent;
+}
+
+.bg .btn4 {
+  position: absolute;
+  top: 10%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: Transparent;
+  color: White;
+  font-size: 70px;
+  padding: 20px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.bg .btn4:hover {
+  background-color: Transperent;
+}
+
+.bg .btn6 {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: Transparent;
+  color: White;
+  font-size: 70px;
+  padding: 20px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.bg .btn6:hover {
+  background-color: Transperent;
+}
+
+
+.bg .btn7 {
+  position: absolute;
+  top: 10%;
+  left: 28%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: Transparent;
+  color: White;
+  font-size: 70px;
+  padding: 20px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.bg .btn7:hover {
+  background-color: Transperent;
+}
+
+
+
+.bg .content {
+  position: absolute;
+  top: 45%;
+  background-color: transparent;
+  color: white;
+  font-size: 70px;
+  left: 10%
+}
+
+
+.bg1 .content1 {
+  position: absolute;
+  top: 5%;
+  background-color: transparent;
+  color: black;
+  font-size: 30px;
+  left: 60%;
+}
+
+.bg1 .content2 {
+  position: absolute;
+  top: 15%;
+  background-color: transparent;
+  color: black;
+  font-size: 30px;
+  left: 50%;
+}
+
+
+.bg1 .content3 {
+  position: absolute;
+  top: 35%;
+  background-color: transparent;
+  color: black;
+  font-size: 30px;
+  left: 40%;
+}
+
+
+
